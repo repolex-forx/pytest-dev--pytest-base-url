@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-base-url",
+  "versions": [
+    {
+      "commit": "538ec4c67be245c6011202df3ff5c3ba84a5a6e9",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:30:48.715819+00:00"
+    }
+  ]
+}
